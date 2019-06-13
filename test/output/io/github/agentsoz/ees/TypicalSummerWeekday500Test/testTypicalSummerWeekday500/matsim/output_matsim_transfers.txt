@@ -1,0 +1,1 @@
+transfer_id	journey_id	start_time	end_time	from_trip	to_trip	walk_distance	walk_time	wait_time	sample_selector
