@@ -1,0 +1,66 @@
+2019-05-29 15:05:09,269  WARN MGC:175 Assuming that coordinates are in longitude first notation, i.e. (longitude, latitude).
+2019-05-29 15:05:11,938  WARN MGC:175 Assuming that coordinates are in longitude first notation, i.e. (longitude, latitude).
+2019-05-29 15:05:19,854  INFO QNetsimEngine:506 Assigned 6095 nodes and 11588 links to QSimEngineRunner #0
+2019-05-29 15:05:19,926  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 00:00:00 : #links=0 #nodes=0
+2019-05-29 15:05:19,937  INFO QSim:506 SIMULATION (NEW QSim) AT 00:00:00 : #Veh=501 lost=0 simT=0.0s realT=11s; (s/r): 0.0
+2019-05-29 15:05:19,942  WARN MGC:175 Assuming that coordinates are in longitude first notation, i.e. (longitude, latitude).
+2019-05-29 15:05:19,957  WARN MGC:175 Assuming that coordinates are in longitude first notation, i.e. (longitude, latitude).
+2019-05-29 15:05:23,135  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 01:00:00 : #links=2 #nodes=0
+2019-05-29 15:05:23,137  INFO QSim:506 SIMULATION (NEW QSim) AT 01:00:00 : #Veh=501 lost=0 simT=3600.0s realT=14s; (s/r): 257.14285714285717
+2019-05-29 15:05:24,761  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 02:00:00 : #links=0 #nodes=0
+2019-05-29 15:05:24,763  INFO QSim:506 SIMULATION (NEW QSim) AT 02:00:00 : #Veh=501 lost=0 simT=7200.0s realT=15s; (s/r): 480.0
+2019-05-29 15:05:26,029  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 03:00:00 : #links=8 #nodes=1
+2019-05-29 15:05:26,030  INFO QSim:506 SIMULATION (NEW QSim) AT 03:00:00 : #Veh=501 lost=0 simT=10800.0s realT=17s; (s/r): 635.2941176470588
+2019-05-29 15:05:27,950  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 04:00:00 : #links=8 #nodes=1
+2019-05-29 15:05:27,952  INFO QSim:506 SIMULATION (NEW QSim) AT 04:00:00 : #Veh=501 lost=0 simT=14400.0s realT=19s; (s/r): 757.8947368421053
+2019-05-29 15:05:29,646  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 05:00:00 : #links=16 #nodes=4
+2019-05-29 15:05:29,648  INFO QSim:506 SIMULATION (NEW QSim) AT 05:00:00 : #Veh=501 lost=0 simT=18000.0s realT=20s; (s/r): 900.0
+2019-05-29 15:05:31,941  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 06:00:00 : #links=18 #nodes=1
+2019-05-29 15:05:31,943  INFO QSim:506 SIMULATION (NEW QSim) AT 06:00:00 : #Veh=501 lost=0 simT=21600.0s realT=23s; (s/r): 939.1304347826087
+2019-05-29 15:05:35,411  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 07:00:00 : #links=11 #nodes=2
+2019-05-29 15:05:35,413  INFO QSim:506 SIMULATION (NEW QSim) AT 07:00:00 : #Veh=501 lost=0 simT=25200.0s realT=26s; (s/r): 969.2307692307693
+2019-05-29 15:05:36,425  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 08:00:00 : #links=20 #nodes=3
+2019-05-29 15:05:36,427  INFO QSim:506 SIMULATION (NEW QSim) AT 08:00:00 : #Veh=501 lost=0 simT=28800.0s realT=27s; (s/r): 1066.6666666666667
+2019-05-29 15:05:38,481  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 09:00:00 : #links=49 #nodes=6
+2019-05-29 15:05:38,483  INFO QSim:506 SIMULATION (NEW QSim) AT 09:00:00 : #Veh=501 lost=0 simT=32400.0s realT=29s; (s/r): 1117.2413793103449
+2019-05-29 15:05:39,921  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 10:00:00 : #links=46 #nodes=4
+2019-05-29 15:05:39,922  INFO QSim:506 SIMULATION (NEW QSim) AT 10:00:00 : #Veh=501 lost=0 simT=36000.0s realT=31s; (s/r): 1161.2903225806451
+2019-05-29 15:05:40,955  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 11:00:00 : #links=29 #nodes=5
+2019-05-29 15:05:40,958  INFO QSim:506 SIMULATION (NEW QSim) AT 11:00:00 : #Veh=501 lost=0 simT=39600.0s realT=32s; (s/r): 1237.5
+2019-05-29 15:05:42,071  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 12:00:00 : #links=25 #nodes=2
+2019-05-29 15:05:42,073  INFO QSim:506 SIMULATION (NEW QSim) AT 12:00:00 : #Veh=501 lost=0 simT=43200.0s realT=33s; (s/r): 1309.090909090909
+2019-05-29 15:05:43,045  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 13:00:00 : #links=33 #nodes=10
+2019-05-29 15:05:43,046  INFO QSim:506 SIMULATION (NEW QSim) AT 13:00:00 : #Veh=500 lost=0 simT=46800.0s realT=34s; (s/r): 1376.4705882352941
+2019-05-29 15:05:44,194  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 14:00:00 : #links=42 #nodes=3
+2019-05-29 15:05:44,195  INFO QSim:506 SIMULATION (NEW QSim) AT 14:00:00 : #Veh=500 lost=0 simT=50400.0s realT=35s; (s/r): 1440.0
+2019-05-29 15:05:45,409  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 15:00:00 : #links=30 #nodes=5
+2019-05-29 15:05:45,411  INFO QSim:506 SIMULATION (NEW QSim) AT 15:00:00 : #Veh=499 lost=0 simT=54000.0s realT=36s; (s/r): 1500.0
+2019-05-29 15:05:46,016  WARN MGC:175 Assuming that coordinates are in longitude first notation, i.e. (longitude, latitude).
+2019-05-29 15:05:46,017  WARN MGC:175 Assuming that coordinates are in longitude first notation, i.e. (longitude, latitude).
+2019-05-29 15:05:46,153  WARN EditTrips:226 yyyyyy pruneUpToCurrentLeg needs to be fixed for multimodal trips & for access/egress routing.
+2019-05-29 15:05:46,175  WARN EditTrips:226 yyyyyy pruneUpToCurrentLeg needs to be fixed for multimodal trips & for access/egress routing.
+2019-05-29 15:05:46,989 ERROR BasicPlanAgentImpl:165 last activity of person driver agent id 326 has end time < infty; setting it to infty
+2019-05-29 15:05:46,990 ERROR BasicPlanAgentImpl:166  This message given only once.
+2019-05-29 15:05:47,143  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 16:00:00 : #links=31 #nodes=3
+2019-05-29 15:05:47,144  INFO QSim:506 SIMULATION (NEW QSim) AT 16:00:00 : #Veh=495 lost=0 simT=57600.0s realT=38s; (s/r): 1515.7894736842106
+2019-05-29 15:05:48,444  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 17:00:00 : #links=45 #nodes=11
+2019-05-29 15:05:48,445  INFO QSim:506 SIMULATION (NEW QSim) AT 17:00:00 : #Veh=479 lost=0 simT=61200.0s realT=39s; (s/r): 1569.2307692307693
+2019-05-29 15:05:49,966  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 18:00:00 : #links=46 #nodes=14
+2019-05-29 15:05:49,967  INFO QSim:506 SIMULATION (NEW QSim) AT 18:00:00 : #Veh=439 lost=0 simT=64800.0s realT=41s; (s/r): 1580.4878048780488
+2019-05-29 15:05:51,267  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 19:00:00 : #links=37 #nodes=7
+2019-05-29 15:05:51,268  INFO QSim:506 SIMULATION (NEW QSim) AT 19:00:00 : #Veh=392 lost=0 simT=68400.0s realT=42s; (s/r): 1628.5714285714287
+2019-05-29 15:05:52,404  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 20:00:00 : #links=33 #nodes=5
+2019-05-29 15:05:52,405  INFO QSim:506 SIMULATION (NEW QSim) AT 20:00:00 : #Veh=327 lost=0 simT=72000.0s realT=43s; (s/r): 1674.4186046511627
+2019-05-29 15:05:53,573  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 21:00:00 : #links=41 #nodes=4
+2019-05-29 15:05:53,574  INFO QSim:506 SIMULATION (NEW QSim) AT 21:00:00 : #Veh=260 lost=0 simT=75600.0s realT=44s; (s/r): 1718.1818181818182
+2019-05-29 15:05:54,768  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 22:00:00 : #links=55 #nodes=3
+2019-05-29 15:05:54,769  INFO QSim:506 SIMULATION (NEW QSim) AT 22:00:00 : #Veh=159 lost=0 simT=79200.0s realT=45s; (s/r): 1760.0
+2019-05-29 15:05:55,830  INFO QNetsimEngine:346 SIMULATION (QNetsimEngine) AT 23:00:00 : #links=16 #nodes=0
+2019-05-29 15:05:55,831  INFO QSim:506 SIMULATION (NEW QSim) AT 23:00:00 : #Veh=94 lost=0 simT=82800.0s realT=47s; (s/r): 1761.7021276595744
+2019-05-29 15:05:56,997  WARN CharyparNagelActivityScoring:252 The first and the last activity do not have the same type. 
+2019-05-29 15:05:56,998  WARN CharyparNagelActivityScoring:253 Will score the first activity from midnight to its end, and the last activity from its start to midnight.
+2019-05-29 15:05:56,999  WARN CharyparNagelActivityScoring:254 Because of the nonlinear function, this is not the same as scoring from start to end.
+2019-05-29 15:05:57,000  WARN CharyparNagelActivityScoring:255 first activity: [type=home][coord=null][linkId=43018-43020-43022][startTime=undefined][endTime=11:08:00][duration=undefined][facilityId=null]
+2019-05-29 15:05:57,000  WARN CharyparNagelActivityScoring:256 last activity: [type=driveTo][coord=null][linkId=43018-43020-43022][startTime=16:16:29][endTime=undefined][duration=undefined][facilityId=null]
+2019-05-29 15:05:57,001  WARN CharyparNagelActivityScoring:257 This may also happen when plans are not completed when the simulation ends.
+2019-05-29 15:05:57,002  WARN CharyparNagelActivityScoring:259 Additional warnings of this type are suppressed.
